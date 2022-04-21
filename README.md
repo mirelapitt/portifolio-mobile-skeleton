@@ -1,56 +1,21 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portifolio mobile skeleton
 
-> Description the project.
-
+> This project is part of the day 2 of the Microverse Program in which is resquested to do a portifolio mobile skeleton. This portifolio is where all of my projects and as well as my skills will be uploaded on it in the future.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- HTML & CSS
 
 ## Authors
 
-👤 **Author1**
+👤 **Mirela Santos Oliveira**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mirelapitt](https://github.com/mirelapitt)
+- Twitter: [@devmirela](https://twitter.com/devmirela)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mirela-oliveira-261893160/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
