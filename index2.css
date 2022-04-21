@@ -1,5 +1,5 @@
 .first-section {
-  background-image: url("./images/header-shapes-mobile.jpg");
+  background-image: url('./images/header-shapes-mobile.jpg');
   height: 95vh;
   width: 55vh;
   background-position: 0 49px;
