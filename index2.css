@@ -1,66 +1,66 @@
 .first-section {
-background-image: url("./images/header-shapes-mobile.jpg");
-height: 95vh;
-width: 55vh;
-background-position: 0px 49px;
-background-repeat: no-repeat;
+  background-image: url("./images/header-shapes-mobile.jpg");
+  height: 95vh;
+  width: 55vh;
+  background-position: 0px 49px;
+  background-repeat: no-repeat;
 }
 
 .first-container {
-    height: 100%;
-    margin: 0px 15px;
+  height: 100%;
+  margin: 0px 15px;
 }
 
-.first-nav{
-display: flex;
-justify-content: space-between;
+.first-nav {
+  display: flex;
+  justify-content: space-between;
 
 }
 
 .my-logo {
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 18px;
-line-height: 20px;
-color: #6070FF;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  color: #6070FF;
 }
 
 .hamburger {
-    margin: 17px 20px;
+  margin: 17px 20px;
 }
 
 .hamburger:hover {
-    color: rgb(239, 14, 14);
-    cursor: pointer;
+  color: rgb(239, 14, 14);
+  cursor: pointer;
 }
 
 .first-para {
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 40px;
-line-height: 52px;
-margin-top: 83px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  margin-top: 83px;
 }
 
 .second-para {
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
 }
 
 .third-para {
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-color: #7F8CFF;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7F8CFF;
 }
 
 .logo-icons {
-    padding: 2px 10px;
+  padding: 2px 10px;
 }
