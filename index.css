@@ -66,6 +66,9 @@ body{
   color: #7f8cff;
 }
 
+.ul-list {
+  list-style-type: none;
+
 .logo-icons {
   padding: 2px 10px;
 }
