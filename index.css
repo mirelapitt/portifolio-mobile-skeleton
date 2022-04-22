@@ -1,3 +1,7 @@
+body{
+  margin: 0;
+  }
+
 .first-section {
   background-image: url('./images/header-shapes-mobile.jpg');
   height: 95vh;
@@ -41,6 +45,7 @@
   font-size: 40px;
   line-height: 52px;
   margin-top: 83px;
+  color: rgb(23, 43, 77)
 }
 
 .second-para {
