@@ -20,7 +20,7 @@ body {
 
 .first-container {
   height: 100%;
-  margin: 0px;
+  margin: 0;
 }
 
 .header {
@@ -28,7 +28,6 @@ body {
   justify-content: space-between;
   margin: 11px;
   margin-top: -25px;
-
 }
 
 .my-logo {
@@ -56,7 +55,7 @@ body {
   font-size: 40px;
   line-height: 52px;
   margin-top: 83px;
-  color: rgb(23, 43, 77)
+  color: #172b4d;
 }
 
 .second-para {
@@ -87,7 +86,7 @@ li {
 }
 
 h2 {
-color: rgb(23, 43, 77)
+  color: #172b4d;
 }
 
 html {
