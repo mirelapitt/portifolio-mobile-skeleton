@@ -2,6 +2,10 @@ body{
   margin: 0;
   }
 
+.font {
+  font-family: 'Poppins', sans-serif;
+  }
+
 .first-section {
   background-image: url('./images/header-shapes-mobile.jpg');
   height: 95vh;
@@ -20,8 +24,7 @@ body{
   justify-content: space-between;
 }
 
-.my-logo {
-  font-family: 'Poppins', sans-serif;
+.my-logo { 
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -40,7 +43,6 @@ body{
 }
 
 .first-para {
-  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -50,7 +52,6 @@ body{
 }
 
 .second-para {
-  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -58,7 +59,6 @@ body{
 }
 
 .third-para {
-  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
