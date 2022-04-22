@@ -1,9 +1,11 @@
 body {
+  display: block;
   margin: 0;
 }
 
 .font {
   font-family: 'Poppins', sans-serif;
+  margin: 4px;
 }
 
 .first-section {
@@ -12,16 +14,21 @@ body {
   width: 55vh;
   background-position: 0 49px;
   background-repeat: no-repeat;
+  margin: 0;
+  display: block;
 }
 
 .first-container {
   height: 100%;
-  margin: 0 15px;
+  margin: 0px;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
+  margin: 11px;
+  margin-top: -25px;
+
 }
 
 .my-logo {
@@ -49,7 +56,7 @@ body {
   font-size: 40px;
   line-height: 52px;
   margin-top: 83px;
-  color: rgb(23, 43, 77);
+  color: rgb(23, 43, 77)
 }
 
 .second-para {
@@ -77,4 +84,13 @@ body {
 
 li {
   list-style: none;
+}
+
+h2 {
+color: rgb(23, 43, 77)
+}
+
+html {
+  margin: 0;
+  margin-bottom: 0;
 }
