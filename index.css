@@ -93,3 +93,8 @@ html {
   margin: 0;
   margin-bottom: 0;
 }
+
+.social_links {
+  display: flex;
+  margin-left: -48px;
+}
