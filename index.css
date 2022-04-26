@@ -1,0 +1,106 @@
+body {
+  display: block;
+  margin: 0;
+}
+
+.font {
+  font-family: 'Poppins', sans-serif;
+  margin: 4px;
+}
+
+.first-section {
+  background-image: url('./images/header-shapes-mobile.jpg');
+  height: 110vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: inherit;
+  margin: 0;
+  display: block;
+  width: 100vw;
+}
+
+.first-container {
+  height: 100%;
+  margin: 0;
+}
+
+.section1 {
+  padding: 0 16px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.my-logo {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  color: #6070ff;
+  margin: 16px;
+  margin-top: 29px;
+}
+
+.hamburger {
+  margin: 17px 20px;
+}
+
+.hamburger:hover {
+  color: rgb(239, 14, 14);
+  cursor: pointer;
+}
+
+.first-para {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  margin-top: 83px;
+  color: #172b4d;
+}
+
+.second-para {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: -22px;
+}
+
+.third-para {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
+}
+
+.ul-list {
+  list-style-type: none;
+}
+
+.logo-icons {
+  padding: 2px 9px;
+  margin-left: 10px;
+}
+
+.social_links {
+  margin-left: -57px;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  margin-left: -3px;
+}
+
+h2 {
+  color: #172b4d;
+}
+
+html {
+  margin: 0;
+  margin-bottom: 0;
+}
