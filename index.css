@@ -10,12 +10,13 @@ body {
 
 .first-section {
   background-image: url('./images/header-shapes-mobile.jpg');
-  height: 95vh;
-  width: 55vh;
-  background-position: 0 49px;
+  height: 110vh;
+  background-position: center;
   background-repeat: no-repeat;
+  background-size: inherit;
   margin: 0;
   display: block;
+  width: 100vw;
 }
 
 .first-container {
@@ -26,8 +27,8 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
-  margin: 0 11px;
-  margin-top: -25px;
+  padding: 0 16px;
+
 }
 
 .my-logo {
